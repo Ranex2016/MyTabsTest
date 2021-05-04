@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyTabsTest</string>
+    <string name="fragment1">Это первый фрагмент</string>
+    <string name="fragment2">Это второй фрагмент</string>
+    <string name="fragment3">Это третий фрагмент</string>
+
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">Картинка</string>
+</resources>
